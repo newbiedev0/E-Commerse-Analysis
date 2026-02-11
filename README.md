@@ -47,11 +47,11 @@ JOIN olist_order_payments_dataset pay
     ON o.order_id = pay.order_id;
     
 4) Key Business Insights
-----Credit Dependency: 💳 A significant portion of high-ticket sales are driven by 10+ installment payment plans, highlighting the importance of consumer credit in the Brazilian market.
+----Credit Dependency:  A significant portion of high-ticket sales are driven by 10+ installment payment plans, highlighting the importance of consumer credit in the Brazilian market.
 
-----Regional Monopoly: 📍 Over X% of total revenue is concentrated in the São Paulo (SP) region, suggesting a need for logistical optimization in outer states.
+----Regional Monopoly: Over X% of total revenue is concentrated in the São Paulo (SP) region, suggesting a need for logistical optimization in outer states.
 
-----Seasonal Surges: 📈 The "Trend" analysis identified massive revenue spikes in November, correlating with Black Friday seasonal promotions.
+----Seasonal Surges:  The "Trend" analysis identified massive revenue spikes in November, correlating with Black Friday seasonal promotions.
 
 5) Dashboard Features
 ----Revenue Trend: An Area Chart showing continuous growth from 2016 to 2018.
